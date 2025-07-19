@@ -2,7 +2,7 @@
 
 This project is part of the **ALX Frontend Specialization** and focuses on setting up a modern React application using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-## 🌱 What I’m Learning
+## What I’m Learning
 
 - How to scaffold a Next.js project using `create-next-app`
 - Understanding Next.js folder structure and best practices
@@ -13,7 +13,7 @@ This project is part of the **ALX Frontend Specialization** and focuses on setti
 - Applying Tailwind CSS for responsive styling
 - Ensuring code quality using ESLint
 
-## 🚀 Project Setup Instructions
+## Project Setup Instructions
 
 1. **Create the Next.js project**
    ```bash
