@@ -16,7 +16,7 @@ const Landing: React.FC = () => {
       {/* Small Buttons */}
       <div className="flex flex-wrap gap-4 items-start mt-10">
         <Button title="Small" styles="text-sm px-3 py-1 rounded-sm" />
-        <Button title="Medium" styles="text-base px-5 py-3 rounded-md" />
+        <Button title="Medium" styles="text-base px-5 py-3 rounded-lg" />
         <Button title="Large" styles="text-xl px-8 py-5 rounded-full" />
       </div>
     </div>
